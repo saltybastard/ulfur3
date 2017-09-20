@@ -1,0 +1,1 @@
+efter du har installerat gå in i appdata/roaming och klistra in user mappen i sublime/packages sedan starta om sublime gå till preferences och till package control sedan startar du om igen
